@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Páginas web", "Aplicaciones web", "Lo que necesitas"],
+        strings: ["Gana más clientes", "Obtén control de tu negocio", "Actualízate ;)", "Justo lo que necesitas"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
